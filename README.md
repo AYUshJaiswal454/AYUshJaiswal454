@@ -70,10 +70,6 @@ const ayush = {
   <img src="https://streak-stats.demolab.com?user=AYUshJaiswal454&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AYUshJaiswal454&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution graph" />
-</p>
-
 ---
 
 ## 🐍 Watch the snake eat my contributions
